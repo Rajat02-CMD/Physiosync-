@@ -1,0 +1,8 @@
+{
+  "name": "PhysioSync",
+  "description": "A comprehensive physiotherapy platform for remote patient monitoring, appointment scheduling, and automated recovery tracking with AI-powered insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
