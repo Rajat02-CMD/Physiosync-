@@ -1,1 +1,1 @@
-my very firtst projet
+my very firtst project
